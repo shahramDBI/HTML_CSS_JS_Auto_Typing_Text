@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #333;
+}
+
+section#myTypingText{
+    direction: ltr;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    height: auto;
+    padding: 10px;
+    margin-top: 30px;
+    color: aliceblue;
+    font-size: 35px;
+    line-height: 2em;
+}
